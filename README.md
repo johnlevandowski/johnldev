@@ -1,5 +1,5 @@
 ---
-title: "johnl.dev domain"
+title: johnl.dev domain
 ---
 
 johnl.dev
